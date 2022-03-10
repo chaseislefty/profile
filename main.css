@@ -1,0 +1,38 @@
+html {
+    background-color: #34312D;
+}
+
+h1 {
+    color: #e6af2e;
+    font-size: 40px;
+    padding: 5px;
+}
+
+h2 { 
+     color: #fefffe;
+     padding: 5px;
+}
+
+p {
+    color: #fefffe;
+    font-size: 18px;
+    padding: 5px;
+}
+
+img {
+    padding: 5px;
+    width: 50%;
+    height: auto;
+}
+
+p {
+    ...
+}
+
+.highlight {
+    ...
+}
+
+#navigation {
+    ...
+}
