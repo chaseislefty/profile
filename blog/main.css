@@ -2,23 +2,6 @@ html {
     background-color: #14110f;
 }
 
-a {
-    color: #e6af2e;
-}
-
-a:visited {
-    color:#fefffe;
-}
-
-a:hover, a:active, a:focus {
-    color: #fefffe;
-}
-
-ul {list-style: none}
-li::before {content: "◎"; color:#e6af2e;
-    display: inline-block; width: 1em;
-    margin-left: -1em; }
-
 h1 {
     color: #e6af2e;
     font-size: 40px;
